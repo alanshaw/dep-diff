@@ -1,0 +1,30 @@
+{
+  "name": "dep-diff",
+  "version": "0.0.0",
+  "description": "Get a list of differences between package dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alanshaw/dep-diff.git"
+  },
+  "keywords": [
+    "diff",
+    "difference",
+    "deps",
+    "dependency",
+    "dependencies",
+    "pkg",
+    "package"
+  ],
+  "author": "Alan Shaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanshaw/dep-diff/issues"
+  },
+  "devDependencies": {
+    "tap": "~0.4.4"
+  }
+}
