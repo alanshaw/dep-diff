@@ -1,4 +1,4 @@
-dep-diff
+dep-diff [![devDependency Status](https://david-dm.org/alanshaw/dep-diff/dev-status.png)](https://david-dm.org/alanshaw/dep-diff#info=devDependencies)
 ========
 
 Get a list of differences between package dependencies
