@@ -22,7 +22,7 @@ var diffs = depDiff(
   }
 )
 
-// diffs is an array of 3 items [ChangedDep, AddedDep, RemovedDep]
+// diffs is an array of 3 items [ChangedDep, AddedDep, RemovedDep]. You use instanceof to determine the diff type.
 //
 // ChangedDep.name = async
 // ChangedDep.version = ~0.2.9
